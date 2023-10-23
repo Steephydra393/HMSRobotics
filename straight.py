@@ -54,7 +54,6 @@ class MoveStraight:
         else:
             print("Huston, we have a problem... And We Can't Fix It...")
 
-
     def move_straight(self, inches, frequency):
 
         # Calculate the time to travel the specified distance at the given frequency.
